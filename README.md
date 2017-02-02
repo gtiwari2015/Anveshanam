@@ -4,8 +4,14 @@ Problem Statement
 2.With sentiment analysis
 3.source can be :
 News  Provider,(Reuter,BBC,Bloomberg ),
-Social media (Twitter ,Face Book , ,Instagram ,Pinterest,Quora ,
+1.https://en.wikipedia.org/wiki/List_of_news_media_APIs
+2.https://developer.ap.org/
+3.https://www.bloomberglabs.com/api/
 
+
+Social media (Twitter ,Face Book , ,Instagram ,Pinterest,Quora ,
+1.Twitter :https://dev.twitter.com/streaming/overview
+2.FaceBook
 
 Solution Plan :
 1. Ontology and Taxonomy data to be inserted in graph
